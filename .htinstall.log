@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	
+	<title>Install &raquo; ProjectSend</title>
+	<link rel="shortcut icon" type="image/x-icon" href="http://www.tmapss.com/favicon.ico" />
+<link rel="icon" type="image/png" href="http://www.tmapss.com/img/favicon/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="http://www.tmapss.com/img/favicon/favicon-152.png" sizes="152x152">
+	<script src="http://www.tmapss.com/includes/js/jquery.1.12.4.min.js"></script>
+
+	<!--[if lt IE 9]>
+		<script src="http://www.tmapss.com/includes/js/html5shiv.min.js"></script>
+		<script src="http://www.tmapss.com/includes/js/respond.min.js"></script>
+	<![endif]-->
+
+				<link rel="stylesheet" media="all" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300" />
+			<link rel="stylesheet" media="all" type="text/css" href="http://www.tmapss.com/assets/font-awesome/css/font-awesome.min.css" />
+			<link rel="stylesheet" media="all" type="text/css" href="http://www.tmapss.com/assets/bootstrap/css/bootstrap.min.css" />
+			<link rel="stylesheet" media="all" type="text/css" href="http://www.tmapss.com/css/main.min.css" />
+			<link rel="stylesheet" media="all" type="text/css" href="http://www.tmapss.com/css/mobile.min.css" />
+</head>
+
+<body class="index backend">
+	<div class="container-custom">
+		<header id="header" class="navbar navbar-static-top navbar-fixed-top header_unlogged">
+			<div class="navbar-header text-center">
+				<span class="navbar-brand">
+					ProjectSend setup				</span>
+			</div>
+		</header>
+
+		<div class="main_content_unlogged">
+			<div class="container-fluid">
+				<div class="row">
+<div class="col-xs-12 col-sm-12 col-lg-4 col-lg-offset-4">
+	<div class="white-box">
+		<div class="white-box-interior">
+
+			<div class="alert alert-success"><a href="#" class="close" data-dismiss="alert">&times;</a>Congratulations! Everything is up and running.</div>								<p>You may proceed to <a href="http://www.tmapss.com/" target="_self">log in</a> with your newely created username and password.</p>
+									</div>
+	</div>
+</div>
+
+
+					</div> <!-- row -->
+				</div> <!-- container-fluid -->
+
+					<footer>
+		<div id="footer">
+			Provided by <a href="https://www.projectsend.org/" target="_blank">ProjectSend</a> version r1070 - Free software		</div>
+	</footer>
+			<script src="http://www.tmapss.com/assets/bootstrap/js/bootstrap.min.js"></script>
+			<script src="http://www.tmapss.com/includes/js/jquery.validations.js"></script>
+			<script src="http://www.tmapss.com/includes/js/jquery.psendmodal.js"></script>
+			<script src="http://www.tmapss.com/includes/js/jen/jen.js"></script>
+			<script src="http://www.tmapss.com/includes/js/js.cookie.js"></script>
+			<script src="http://www.tmapss.com/includes/js/main.js"></script>
+			<script src="http://www.tmapss.com/includes/js/js.functions.php"></script>
+			</div> <!-- main_content -->
+		</div> <!-- container-custom -->
+
+	</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'a2plcpnl0408'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script></html>

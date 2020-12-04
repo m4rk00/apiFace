@@ -1,0 +1,104 @@
+[02-Dec-2020 20:42:35 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:35 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:35 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:35 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:36 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:36 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:36 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:36 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:36 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:36 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:40 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:40 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:41 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:41 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:42 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:42 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:42:42 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:42 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:42:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:59
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(59): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/register.php(14): Conexion->crearUsuario('da', 'da', 'da', 'da')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 59
+[02-Dec-2020 20:47:22 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:22 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:43
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(43): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/login.php(11): Conexion->buscarUsuario('marco', '123')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 43
+[02-Dec-2020 20:47:23 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:23 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:43
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(43): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/login.php(11): Conexion->buscarUsuario('marco', '123')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 43
+[02-Dec-2020 20:47:23 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:23 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:43
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(43): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/login.php(11): Conexion->buscarUsuario('marco', '123')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 43
+[02-Dec-2020 20:47:23 UTC] PHP Notice:  Undefined variable: host in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:23 UTC] PHP Notice:  Undefined variable: apiface in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 8
+[02-Dec-2020 20:47:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in /home/oy5d5o61hwew/public_html/assets/data/conexion.php:43
+Stack trace:
+#0 /home/oy5d5o61hwew/public_html/assets/data/conexion.php(43): PDOStatement->execute(Array)
+#1 /home/oy5d5o61hwew/public_html/assets/data/login.php(11): Conexion->buscarUsuario('marco', '123')
+#2 {main}
+  thrown in /home/oy5d5o61hwew/public_html/assets/data/conexion.php on line 43
